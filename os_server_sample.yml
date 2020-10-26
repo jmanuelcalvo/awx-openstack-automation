@@ -17,5 +17,5 @@
        security_groups: default
        meta:
          os: cirros
-     auth:
-       project_name: Redhat_jmanuel
+       auth:
+         project_name: Redhat_jmanuel

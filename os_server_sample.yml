@@ -16,4 +16,6 @@
        network: e61a10ac-874e-4ef9-a4cb-53346b74be27
        security_groups: default
        meta:
-         os: ubuntu
+         os: cirros
+     auth:
+       project_name: Redhat_jmanuel

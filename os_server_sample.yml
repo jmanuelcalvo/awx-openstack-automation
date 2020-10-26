@@ -13,7 +13,7 @@
        timeout: 200
        flavor: m1.tiny
        auto_ip: no
-       network: 838f6119-b2c2-460c-a830-b78c89d94c8a
+       network: e61a10ac-874e-4ef9-a4cb-53346b74be27
        security_groups: default
        meta:
          os: ubuntu

@@ -5,6 +5,7 @@
   tasks:
   - name: Create a new instance and attaches to a network and passes metadata to the instance
     os_server:
+       validate_certs: no
        state: present
        name: ansible-vm1
        image: "cirros"
